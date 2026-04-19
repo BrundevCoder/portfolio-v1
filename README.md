@@ -10,6 +10,7 @@ Welcome to my portfolio! Here you can see who I am and what I like to do. But be
 
 Added:
 - New layout 🧱
+- New section for my projects 🛠️
 - New color, `#fff` for the background, and the main colors are: `#FF8800` and `#C98230` 🎨
 - New Fonts 🔤
 - Responsive Design 💻📱
