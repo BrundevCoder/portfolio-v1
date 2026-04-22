@@ -58,6 +58,10 @@ h1, h2, h3 {
   color: #C98230;
 }
 
+#codingDays {
+  margin: 1rem 0;
+}
+
 .link-projects {
   margin-top: 0.5rem;
   padding: 1rem;
