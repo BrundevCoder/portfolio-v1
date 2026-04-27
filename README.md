@@ -56,7 +56,9 @@ and the click animations...
 <img width="1348" height="629" alt="image" src="https://github.com/user-attachments/assets/0ab25665-068f-4754-9051-30f4b1e4881b" />
 <br/>
 <img width="1350" height="257" alt="image" src="https://github.com/user-attachments/assets/7dffc158-9aa5-4eec-82ac-bd61a629533f" />
-### (Images from part of my projects):
+
+## (Images from part of my projects):
+
 <img width="1350" height="767" alt="image" src="https://github.com/user-attachments/assets/33cd4083-0ff8-4c59-80d1-03548ff1bb0d" />
 <br/>
 <img width="1350" height="767" alt="image" src="https://github.com/user-attachments/assets/4433b724-1c0a-4198-939d-d89fe5f18007" />
