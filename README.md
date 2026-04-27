@@ -16,7 +16,7 @@ Here are some more details about the design:
 - What new fonts did I use?
   > Since the idea was to have something eye-catching and modern, I preferred fonts like `Holtwood One SC` and `Hanalei Fill` because they are 'different', and I think they go well with the aesthetics of my portfolio!
 
-## about the animations:
+## About the animations:
 In this project, I decided to create different animations, play with the shadows of some elements, and make them animated when hovered and clicked.
 
 hover animation on the button:
@@ -66,5 +66,5 @@ and the click animations...
 <img width="1349" height="767" alt="image" src="https://github.com/user-attachments/assets/8432ed19-eea5-405a-ad51-2c4610241db7" />
 <br/>
 
-
+Feel free to try out my other projects as well!
 Everything was done by me, no AI assistance was used here. And I hope you like it!
